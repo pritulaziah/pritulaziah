@@ -21,7 +21,8 @@
 </p>
 
 ---
-<p align="center">
+<div>
 <img alt="pritulaziah's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritulaziah&layout=compact" height="192px"/>
+<br />
 <img alt="pritulaziah's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=pritulaziah&show_icons=true&include_all_commits=true&count_private=true" height="192px"/>
-</p>
+</div>
