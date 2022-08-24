@@ -6,9 +6,9 @@
 </h3>
 
 - 👀 I’m interested in Frontent, Backend, Design
-- 🌱 I’m currently learning: Three.js
+- 🌱 I’m currently learning: Three.js and japanese language
 
-<div style="display:flex;">Link to my CodePen:&nbsp;<a href="https://codepen.io/ziahherzen"><img alt="link to my CodePen" src="https://img.shields.io/static/v1?label&message=ziahherzen&color=000000&style=flat&logo=codepen" /></a></div>
+<div>Link to my CodePen:&nbsp;<a href="https://codepen.io/ziahherzen"><img alt="link to my CodePen" src="https://img.shields.io/static/v1?label&message=ziahherzen&color=000000&style=flat&logo=codepen" /></a></div>
 
 ---
 
@@ -21,5 +21,7 @@
 </p>
 
 ---
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pritulaziah&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+<img alt="pritulaziah's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritulaziah&layout=compact" height="192px"/>
+<img alt="pritulaziah's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=pritulaziah&show_icons=true&include_all_commits=true&count_private=true" height="192px"/>
+</div>
