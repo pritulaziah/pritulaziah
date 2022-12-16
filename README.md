@@ -8,7 +8,7 @@
 - 👀 I’m interested in Frontent, Backend, Design
 - 🌱 I’m currently learning: Three.js and japanese language
 
-<div>Link to my CodePen:&nbsp;<a href="https://codepen.io/ziahherzen"><img alt="link to my CodePen" src="https://img.shields.io/static/v1?label&message=ziahherzen&color=000000&style=flat&logo=codepen" /></a></div>
+<div>Link to my CodePen:&nbsp;<a href="https://codepen.io/ziahherzen/pens/public"><img alt="link to my CodePen" src="https://img.shields.io/static/v1?label&message=ziahherzen&color=000000&style=flat&logo=codepen" /></a></div>
 
 ---
 
